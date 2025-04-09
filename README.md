@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Software Development Engineering student, passionate about web development, infrastructure, and database management. Open to learn new things — new knowledge for a new life.</p>
+<p align="left">I'm a Software Development Engineering student, passionate about web development, infrastructure, and database management. Open to learn new technologies — new knowledge for a new life.</p>
 
 ###
 
@@ -52,5 +52,13 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/AAReynosoG/count.svg?"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AAReynosoG/AAReynosoG/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AAReynosoG/AAReynosoG/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AAReynosoG/AAReynosoG/output/pacman-contribution-graph.svg">
+</picture>
 
 ###
