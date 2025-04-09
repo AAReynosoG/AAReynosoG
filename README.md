@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Software Development Engineering student, passionate about web development, infrastructure, and database management. Open to learn new technologies — new knowledge for a new life.</p>
+<p align="left">I'm a Software Development Engineering student, passionate about web development, infrastructure, and database management. Open to learn new things — new knowledge for a new life.</p>
 
 ###
 
